@@ -1,7 +1,7 @@
 # PDBI_G8
 Proyecto del curso Fundamentos de Biodiseño, desarrollado por un equipo de estudiantes de Ingeniería Biomédica. En este repositorio documentaremos el desarrollo de nuestro proyecto, incluyendo el proceso de diseño, investigación, prototipado y resultados.
 
-## 👥 Integrantes
+## Integrantes
 
 - Sebastian Reymundo
 - Gael Santivañez
@@ -9,10 +9,10 @@ Proyecto del curso Fundamentos de Biodiseño, desarrollado por un equipo de estu
 - Maria Cáceres
 - Jonatan Huiñapi
 
-## 📸 Nuestro equipo
+## Nuestro equipo
 
 ![Equipo](team.jpg)
 
-## 📌 Sobre el proyecto
+## Sobre el proyecto
 
 En este repositorio se documentará el proceso de desarrollo de nuestro proyecto para el curso Fundamentos de Biodiseño, incluyendo la investigación, ideación, diseño, prototipado y evaluación de la solución propuesta.
