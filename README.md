@@ -11,7 +11,7 @@ Proyecto del curso Fundamentos de Biodiseño, desarrollado por un equipo de estu
 
 ## Nuestro equipo
 
-![Equipo](team.jpg)
+![Equipo](team.jpeg)
 
 ## Sobre el proyecto
 
